@@ -1,5 +1,4 @@
 # Alexa-CaBi
-(awaiting Amazon certification: Submitted 3/28/17)
 
 ## Alexa Skill: Captial Bikeshare
 
